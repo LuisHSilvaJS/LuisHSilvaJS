@@ -11,8 +11,8 @@
 
 <div align="center">
   <a href="https://github.com/angelinhow">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuisHSilvaJS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisHSilvaJS&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luishsilvajs&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishsilvajs&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
   <div style="display: inline_block"><br>
