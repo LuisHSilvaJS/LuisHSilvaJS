@@ -30,5 +30,4 @@
   <a href="https://instagram.com/l.henriiq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:luishs.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/luishsilvajs/LuisHSilvaJS/blob/output/github-contribution-grid-snake.svg) 
   </div>
