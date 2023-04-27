@@ -1,7 +1,7 @@
 ### Salve salve família, sou eu, Luis Henrique👋
 ##
 
-- 🔭 Trabalho atualmente em Lojas Cem - Matriz/SA.
+- 🔭 Analista/Funcional SAP - Lojas Cem - Matriz/SA.
 - 🌱 Estudando GTI - Fatec ITU.
 - 🌱 Estudando em paralelo com faculdade: JavaScript, HTML e CSS, conceitos de Segurança da Informação.
 - 💡 Futuro Dev Front-End / Pentester.
